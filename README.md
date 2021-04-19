@@ -2,6 +2,8 @@ In this project, we wanted to see how different demographic variables are correl
 
 Beyond data about individuals, we were also interested in seeing if we could do county by county comparisons. For example, we found data about average county income, average education level, and the percentage of people that voted for  Biden vs Trump, and are interested in seeing if any of those variables correlate to the percentage of the county that is vaccinated.
 
+The final product is the file labeled Final_Project.jpynb. Please run this code to see the results of our data analysis. 
+
 We have included some captions/explanations for our analyses.
 
 This is a link to a folder containing all of the datasets we used in our project:
