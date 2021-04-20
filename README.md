@@ -1,6 +1,6 @@
-In this project, we wanted to see how different demographic variables are correlated with COVID-19 cases and vaccination rates. We focused on two states, Pennsylvania and Rhode Island, and looked at how factors such as race affected case numbers. We also looked at data from across the whole United States.
+In this project, we wanted to see how different demographic variables are correlated with COVID-19 cases and vaccination rates. We focused on two states, Pennsylvania and Rhode Island, and looked at how factors such as race affected case numbers and vaccination rates. We also looked at data from across the whole United States.
 
-Beyond data about individuals, we were also interested in seeing if we could do county by county comparisons. For example, we found data about average county income, average education level, and the percentage of people that voted for  Biden vs Trump, and are interested in seeing if any of those variables correlate to the percentage of the county that is vaccinated.
+Beyond data about individuals, we were also interested in seeing if we could do county by county comparisons. For example, we found data about average county income and the percentage of people that voted for  Biden vs Trump, and are interested in seeing if any of those variables correlate to the percentage of the county that is vaccinated.
 
 The final product is the file labeled Final_Project.jpynb. Please run this code to see the results of our data analysis. No other files need to be run. 
 
